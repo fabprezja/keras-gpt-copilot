@@ -1,6 +1,5 @@
-# Keras GPT Copilot: Integrating the power of large language models in deep learning model development
-<img src="https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/8b7f6714-a88b-436c-b35f-1bb22abbadb0.png" alt="logo" width="55%">
-
+# Keras GPT Copilot: Integrating the Power of Large Language Models in Deep Learning Model Development
+<img src="https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/bb66f7fb-fb76-4ac4-acd5-4d06b486ecee.png" alt="logo" width="55%">
 
 Keras GPT Copilot is the first Python package designed to integrate an LLM copilot within the model development workflow, offering iterative feedback options for enhancing the performance of your Keras deep learning models. Utilizing the power of OpenAI's GPT models, Keras GPT Copilot can use any of the compatible models (GPT4 is recommended). However, the prompt-only mode allows for compatibility with other large language models.
 
@@ -57,13 +56,14 @@ follow_up_suggestion = advisor.get_follow_up_suggestion(initial_suggestion=sugge
 
 ## Use Example
 ### Before Keras GPT Copilot (Intentionally Overcapacitated Model)
-![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/432c11c6-9285-43d8-9bd3-3e0778dd0e05)
+![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/0231df5b-2afd-4b5e-9c17-7fb1ed7a5881)
+
 ```
 Test score at best epoch:
 Test Accuracy: 0.9491999745368958
 ```
 ### After Keras GPT Copilot (1 round)
-![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/6149555f-500d-4b77-b6ec-7f356140d230)
+![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/6ec28e14-7637-469f-88e0-7589bf31bbbd)
 ```
 Test score at best epoch:
 Test accuracy: 0.9810000061988831
