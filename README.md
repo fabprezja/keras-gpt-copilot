@@ -53,7 +53,23 @@ follow_up_suggestion = advisor.get_follow_up_suggestion(initial_suggestion=sugge
                                                          follow_up_question=follow_up_question,
                                                          model="gpt-4")
 ```
+## How to cite:
 
+If you find the work usefull in your project, please cite:
+
+```bibtex
+@misc{fabprezja_2023,
+  author = {Fabi Prezja},
+  title = {Keras GPT Copilot: Integrating the Power of Large Language Models in Deep Learning Model Development},
+  month = may,
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/fabprezja/keras-gpt-copilot}},
+  doi = {},
+  url = {}
+}
+```
 ## Use Example
 ### Before Keras GPT Copilot (Intentionally Overcapacitated Model)
 ![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/0231df5b-2afd-4b5e-9c17-7fb1ed7a5881)
