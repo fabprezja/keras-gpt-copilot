@@ -320,7 +320,7 @@ The validation curves over epochs are:
 The test loss is 0.1487419605255127 and the test_accuracy is 0.9491999745368958.
 How can I improve the model performance based on this information?
 ```
-### GPT4 Response (Suggestions):
+### Step 3: GPT4 Response (Suggestions):
 ```
 Based on the information provided, it seems that your model is already performing quite well on the training dataset. However, the performance on the validation dataset does not improve significantly after a certain point, and there is a gap between training and validation accuracy. This suggests that the model might be overfitting the training data. Here are some suggestions to improve the model performance:
 
@@ -336,11 +336,11 @@ Based on the information provided, it seems that your model is already performin
 
 6. Use data augmentation: If your dataset is small or not diverse enough, you can apply data augmentation techniques to generate more varied training samples. This will help your model generalize better to unseen data.
 ```
-### Copilot Follow-up:
+### Step 3.1: Copilot Follow-up:
 ```
 "Can you show me Python code for implementing the suggested changes?"
 ```
-### GPT4 Follow-up Response (Code Implemented Suggestions):
+### Step 4: GPT4 Follow-up Response (Code Implemented Suggestions):
 ```
 Sure! Here's an example of how you can implement the suggested changes using TensorFlow and Keras. I'll demonstrate adding dropout layers, early stopping, adjusting the learning rate, and adding L2 weight regularization:
 
