@@ -66,8 +66,8 @@ If you find the work usefull in your project, please cite:
   publisher = {GitHub},
   journal = {GitHub Repository},
   howpublished = {\url{https://github.com/fabprezja/keras-gpt-copilot}},
-  doi = {},
-  url = {}
+  doi = {10.5281/zenodo.7935183},
+  url = {https://doi.org/10.5281/zenodo.7935183}
 }
 ```
 ## Use Example
