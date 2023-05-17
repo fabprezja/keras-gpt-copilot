@@ -71,7 +71,7 @@ If you find the work usefull in your project, please cite:
 }
 ```
 ## Use Example
-### Before Keras GPT Copilot (Intentionally Overcapacitated Model)
+### Before Keras GPT Copilot (Intentionally Over-capacitated Model)
 ![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/0231df5b-2afd-4b5e-9c17-7fb1ed7a5881)
 
 ```
