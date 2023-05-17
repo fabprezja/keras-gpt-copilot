@@ -78,7 +78,7 @@ If you find the work usefull in your project, please cite:
 Test score at best epoch:
 Test Accuracy: 0.9491999745368958
 ```
-### After Keras GPT Copilot (1 round)
+### After Keras GPT Copilot (1 Round)
 ![image](https://github.com/fabprezja/keras-gpt-copilot/assets/87379098/6ec28e14-7637-469f-88e0-7589bf31bbbd)
 ```
 Test score at best epoch:
@@ -112,7 +112,7 @@ advisor = ModelAdvisor(model, history, None, test_loss=test_loss,test_metric=("t
 suggestion = advisor.get_suggestions(cp_prompt_only=True,print_cp_prompt=True)
 ```
 
-### Step 2.1: Keras GPT Copilot generated prompt
+### Step 2.1: Keras GPT Copilot Generated Prompt
 
 ```
 Input prompt:
