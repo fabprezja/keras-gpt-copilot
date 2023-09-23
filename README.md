@@ -3,6 +3,8 @@
 
 Keras GPT Copilot is the first Python package designed to integrate an LLM copilot within the model development workflow, offering iterative feedback options for enhancing the performance of your Keras deep learning models. Utilizing the power of OpenAI's GPT models, Keras GPT Copilot can use any of the compatible models (GPT4 is recommended). However, the prompt-only mode allows for compatibility with other large language models.
 
+> **Note:** The Keras GPT Copilot was showcased at the Google Startup Campus in Seoul, South Korea, as part of the Keras Community Day! [Event details here](https://festa.io/events/4000).
+
 ## Features
 
 - Generates copilot feedback from gathering model configuration, optimizer details, and experiment results during model development
